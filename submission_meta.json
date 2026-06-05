@@ -1,0 +1,7 @@
+{
+  "method": "StyleGAN2-ADA transfer ffhq256→CelebV-HQ",
+  "cfg": "paper256",
+  "network": "/content/face_contest/training-runs/00004-celebvhq256-mirror-paper256-kimg300-noaug-resumeffhq256/network-snapshot-000300.pkl",
+  "truncation_psi": 1.0,
+  "sample_seed": 12345
+}
